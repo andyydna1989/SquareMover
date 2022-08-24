@@ -1,0 +1,8 @@
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  border-radius: 5px;
+  border-style: ridge;
+  border-width: 3px;
+  background-color: lightskyblue;
+  width: auto;
+}
